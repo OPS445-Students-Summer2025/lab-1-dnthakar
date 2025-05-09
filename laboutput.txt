@@ -40,8 +40,8 @@ Ran 16 tests in 0.095s
 OK
 OPS445 Lab Report - System Information for running ./CheckLab1.py
 =================================================================
-    User login name: dthakar
-    Git Email: dhruvthakar53@outlook.com
+    User login name: dnthakar
+    Git Email: dnthakar@myseneca.ca
     Linux system name: dthakar-VirtualBox
     Python executable: /usr/bin/python3
     Python version:  3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]
